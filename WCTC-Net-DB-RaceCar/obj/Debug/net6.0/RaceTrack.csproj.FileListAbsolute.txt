@@ -1,0 +1,14 @@
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack.dll.config
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack.deps.json
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack.runtimeconfig.json
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack.dll
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/bin/Debug/net6.0/RaceTrack.pdb
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.csproj.AssemblyReference.cache
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.csproj.CoreCompileInputs.cache
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.dll
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/refint/RaceTrack.dll
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.pdb
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/RaceTrack.genruntimeconfig.cache
+/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/obj/Debug/net6.0/ref/RaceTrack.dll

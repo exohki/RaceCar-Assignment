@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NY7PJy4v1AdpkbCoRA1TdCwrXzg5GwjTIUpiK7J1iuMk/OwQAApclb4QIm6SkKZVqbCYd4xUtw+6LQJxRh+7UA==",
+  "success": true,
+  "projectFilePath": "/Users/emileemontijo/Projects/WCTC-Net-DB-RaceCar/RaceTrack.csproj",
+  "expectedPackageFiles": [
+    "/Users/emileemontijo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/emileemontijo/.nuget/packages/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
